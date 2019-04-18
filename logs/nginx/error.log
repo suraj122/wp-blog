@@ -1,0 +1,1 @@
+2019/04/18 06:41:14 [error] 26#0: *5545 directory index of "/app/public/wp-content/cache/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/cache/ HTTP/1.0", host: "blog.local", referrer: "http://blog.local/wp-content/cache/"
